@@ -13,14 +13,24 @@
   
 ---  
 
+🎬 **Latest Videos**  
+<br/>
+- [ESP32 and 1-wire based DS18B20 Temperature Sensor](https://youtu.be/SdR2TXewC_o?si=O595kIpJQ4CNN4tu)
+- [Decode RC PPM signals to generate PWM using STM32](https://youtu.be/L-Bq8R8h_6A?si=GTJ4uUBTRMgHPw-0)
+- [How to implement UART protocol on NRF52840 dongle](https://youtu.be/c2SXHke03Gg?si=Y6qEiEqO7Gyufo6p)
+- [How to make your own custom IR remote using ATtiny85](https://youtu.be/9isO4R13i0A?si=ZAUumHN3gs-LEj1v)
+
+---  
+
 📈 **Github Stat's**  
 <br/>
-![AvinasheeTech's Stats](https://github-readme-stats.vercel.app/api?username=AvinasheeTech&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![AvinasheeTech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinasheeTech&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![AvinasheeTech's Stats](https://github-readme-stats.vercel.app/api?username=AvinasheeTech&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![AvinasheeTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvinasheeTech&theme=tokyonight&hide_border=false)
   
 ---  
 
 🤩 **Show Support**  
 <br/>
-Contribute and show support..Your little effort to support will make a big difference for me.<br/>
+Contribute and show support..Your little effort to support will make a big difference for me.  
+<br/>
 <a href="https://www.buymeacoffee.com/avinasheetech" target="_blank"><img src="logo_buy_me_a_coffee.jpg" alt="Buy Me A Coffee" height="41" width="174"></a>
