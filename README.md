@@ -25,7 +25,6 @@
 📈 **Github Stat's**  
 <br/>
 ![AvinasheeTech's Stats](https://github-readme-stats.vercel.app/api?username=AvinasheeTech&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![AvinasheeTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvinasheeTech&theme=tokyonight&hide_border=false)
   
 ---  
 
