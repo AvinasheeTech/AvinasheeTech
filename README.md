@@ -20,25 +20,11 @@
 
 </div>
 
-## $ terminal
+<div align="center">
 
-```bash
-$ whoami
-Avinashee Tech
+![Terminal](/assets/terminal-boot.svg)
 
-$ pwd
-/home/embedded/projects
-
-$ ls
-STM32/  ESP32/  RaspberryPi/  TinyML/  Audio/  Linux/
-
-$ cat mission.txt
-Making embedded systems easier to understand,
-one project at a time.
-
-$ uptime
-Learning never stops.
-```
+</div>
 
 ## 📡 What I Cover
 
