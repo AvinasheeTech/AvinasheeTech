@@ -56,9 +56,13 @@
 </table>
 </div>
 &ensp;
+
+
+  
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Avinashee%20Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnGAbDT2-M_of7o2Wc3Ur5g)
-[![GitHub](https://img.shields.io/badge/GitHub-AvinasheeTech-181997?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinasheeTech)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnGAbDT2-M_of7o2Wc3Ur5g)
+[![GitHub](https://img.shields.io/badge/GitHub-181997?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinasheeTech)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/avinasheetech)
 
 </div>
