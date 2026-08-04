@@ -1,35 +1,77 @@
-<h1 align="center">  Namaste 🙏 , It's me Shyam..Your friendly neighbourhood engineer... </h1>  <br/>
+<div align="center">
 
-- 🔌 I'm an Electrical Engineer from **Bharat**  
-- 💻 Who is Exploring world of **Embedded Systems**   
-- 📹 And Sharing **Contents**  
-- 🚀 Join me on this Journey...**Subscribe and Support**...  
-  
----   
+<!--
+  NOTE on the intro clip: GitHub sanitizes README HTML, so <video autoplay>
+  will NOT actually autoplay — it renders with a play button (no true
+  "plays once per session" behavior exists on GitHub, since there's no JS).
+  Closest real equivalent: convert the mp4 to a GIF that plays once and
+  holds on the last frame, OR keep the mp4 with controls and let visitors
+  click play. Swap the src below once you've decided.
+-->
+<img src="https://raw.githubusercontent.com/AvinasheeTech/AvinasheeTech/main/assets/logo-intro.gif" width="600" alt="Avinashee Tech intro">
 
-▶️ **Youtube Trailer**     
-<br/>
-[![Avinashee Tech Youtube Channel Trailer](thumbnail.png)](https://www.youtube.com/watch?v=O_yAGdU-Udw)
-  
----  
+</div>
 
-🎬 **Latest Videos**  
-<br/>
-- [DIY BLE KeyBoard with nRF52840 Dongle](https://youtu.be/0vzwbgLEY-s?si=rYbHA2kyXoIgOnh7)
-- [Create a custom nRF52840 HID Mouse](https://youtu.be/B3sBxbkTqs8?si=JWi5-9C5fEisZvDd)
-- [ESP32 BlueTooth Peripheral Tutorial](https://youtu.be/bMA0M486fg0?si=byJj1YtUNqOkZhxw)
-- [nRF52840 Dongle BlueTooth Peripheral Tutorial](https://youtu.be/e9bLlDf3ZDo?si=uL6wML4qg_csrJKI)
+<br>
 
----  
+```text
+Power-On Reset...
+Initializing system clock......... ✔
+Configuring GPIO.................. ✔
+Mounting filesystem............... ✔
+Starting services.................  ✔
+System Ready.
 
-📈 **Github Stat's**  
-<br/>
-![AvinasheeTech's Stats](https://github-readme-stats.vercel.app/api?username=AvinasheeTech&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-  
----  
+Welcome to AVINASHEE TECH
+```
 
-🤩 **Show Support**  
-<br/>
-Contribute and show support..Your little effort to support will make a big difference for me.  
-<br/>
-<a href="https://www.buymeacoffee.com/avinasheetech" target="_blank"><img src="logo_buy_me_a_coffee.jpg" alt="Buy Me A Coffee" height="41" width="174"></a>
+## $ terminal
+
+```bash
+$ whoami
+Avinashee Tech
+
+$ pwd
+/home/embedded/projects
+
+$ ls
+STM32/  ESP32/  RaspberryPi/  TinyML/  Audio/  Linux/
+
+$ cat mission.txt
+Making embedded systems easier to understand,
+one project at a time.
+
+$ uptime
+Learning never stops.
+```
+
+## 📡 What I Cover
+
+- **MCUs & SoCs** — ESP32, nRF52840, STM32
+- **RTOS & Frameworks** — FreeRTOS, Zephyr
+- **UI on embedded** — LVGL
+- **Comms & Protocols** — I2S, DMA, UART, SPI, I2C, BLE
+- **TinyML / Embedded AI** — on-device inference, wake-word detection, voice pipelines
+- **Linux & Audio** — ALSA, PCM, embedded Linux internals
+
+## 🎥 Latest Videos
+
+<!-- START_YOUTUBE_SECTION -->
+<!-- END_YOUTUBE_SECTION -->
+
+*(auto-updated daily via GitHub Actions — see workflow)*
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnGAbDT2-M_of7o2Wc3Ur5g)
+
+## 📌 Pinned Projects
+
+> Pin these from your GitHub profile directly (Customize your pins → pick repos) —
+> GitHub renders them as cards below your bio automatically, no markdown needed.
+> Good candidates once they're public: your ESP32 voice assistant repo and the
+> RPi3 multi-wake-word demo.
+
+## 📫 Connect
+
+[![YouTube](https://img.shields.io/badge/YouTube-Avinashee%20Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnGAbDT2-M_of7o2Wc3Ur5g)
+[![GitHub](https://img.shields.io/badge/GitHub-AvinasheeTech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinasheeTech)
+
