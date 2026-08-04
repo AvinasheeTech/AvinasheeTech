@@ -1,1 +1,96 @@
+<svg width="620" height="340" viewBox="0 0 620 340" xmlns="http://www.w3.org/2000/svg" font-family="SFMono-Regular, Consolas, 'Fira Code', Menlo, monospace">
 
+  <rect x="0" y="0" width="620" height="340" rx="10" ry="10" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <rect x="0" y="0" width="620" height="36" rx="10" ry="10" fill="#161B22"/>
+  <rect x="0" y="26" width="620" height="10" fill="#161B22"/>
+  <line x1="0" y1="36" x2="620" y2="36" stroke="#30363D" stroke-width="1"/>
+  <circle cx="24" cy="18.0" r="6" fill="#FF5F56"/>
+  <circle cx="46" cy="18.0" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="18.0" r="6" fill="#27C93F"/>
+  <text x="310.0" y="22.0" fill="#8B949E" font-size="12.5" text-anchor="middle">bash — avinashee@embedded</text>
+
+<defs>
+    <clipPath id="clip0">
+      <rect x="24" y="59" width="0" height="23">
+        <animate id="rectanim0" attributeName="width" from="0" to="76.0"
+                 begin="0s" dur="0.36s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="24" y="83" width="0" height="23">
+        <animate id="rectanim1" attributeName="width" from="0" to="130.0"
+                 begin="rectanim0.end" dur="0.63s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="24" y="107" width="0" height="23">
+        <animate id="rectanim2" attributeName="width" from="0" to="49.0"
+                 begin="rectanim1.end" dur="0.25s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="24" y="131" width="0" height="23">
+        <animate id="rectanim3" attributeName="width" from="0" to="211.0"
+                 begin="rectanim2.end" dur="1.035s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="24" y="155" width="0" height="23">
+        <animate id="rectanim4" attributeName="width" from="0" to="40.0"
+                 begin="rectanim3.end" dur="0.25s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip5">
+      <rect x="24" y="179" width="0" height="23">
+        <animate id="rectanim5" attributeName="width" from="0" to="562.0"
+                 begin="rectanim4.end" dur="2.79s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="24" y="203" width="0" height="23">
+        <animate id="rectanim6" attributeName="width" from="0" to="157.0"
+                 begin="rectanim5.end" dur="0.765s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip7">
+      <rect x="24" y="227" width="0" height="23">
+        <animate id="rectanim7" attributeName="width" from="0" to="409.0"
+                 begin="rectanim6.end" dur="2.025s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip8">
+      <rect x="24" y="251" width="0" height="23">
+        <animate id="rectanim8" attributeName="width" from="0" to="202.0"
+                 begin="rectanim7.end" dur="0.99s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip9">
+      <rect x="24" y="275" width="0" height="23">
+        <animate id="rectanim9" attributeName="width" from="0" to="76.0"
+                 begin="rectanim8.end" dur="0.36s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip10">
+      <rect x="24" y="299" width="0" height="23">
+        <animate id="rectanim10" attributeName="width" from="0" to="193.0"
+                 begin="rectanim9.end" dur="0.945s" fill="freeze"/>
+      </rect>
+    </clipPath></defs>
+  <text x="24" y="74" font-size="15" fill="#7CE38B" clip-path="url(#clip0)">$ whoami</text>
+  <text x="24" y="98" font-size="15" fill="#C9D1D9" clip-path="url(#clip1)">Avinashee Tech</text>
+  <text x="24" y="122" font-size="15" fill="#7CE38B" clip-path="url(#clip2)">$ pwd</text>
+  <text x="24" y="146" font-size="15" fill="#C9D1D9" clip-path="url(#clip3)">/home/embedded/projects</text>
+  <text x="24" y="170" font-size="15" fill="#7CE38B" clip-path="url(#clip4)">$ ls</text>
+  <text x="24" y="194" font-size="15" fill="#C9D1D9" clip-path="url(#clip5)">STM32/  ESP32/  RaspberryPi/  NRF52840/  Datasheet/  Projects/</text>
+  <text x="24" y="218" font-size="15" fill="#7CE38B" clip-path="url(#clip6)">$ cat mission.txt</text>
+  <text x="24" y="242" font-size="15" fill="#C9D1D9" clip-path="url(#clip7)">Making embedded systems easier to understand,</text>
+  <text x="24" y="266" font-size="15" fill="#C9D1D9" clip-path="url(#clip8)">one project at a time.</text>
+  <text x="24" y="290" font-size="15" fill="#7CE38B" clip-path="url(#clip9)">$ uptime</text>
+  <text x="24" y="314" font-size="15" fill="#C9D1D9" clip-path="url(#clip10)">Learning never stops.</text>
+
+  <rect x="221.0" y="301" width="8" height="17" fill="#7CE38B" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;0;1;0;1" keyTimes="0;0.001;0.08;0.16;0.24;0.32;0.4;0.48;0.56;0.64;0.72;0.8;1"
+             begin="rectanim10.end" dur="4s" repeatCount="indefinite" fill="freeze"/>
+  </rect>
+
+</svg>
