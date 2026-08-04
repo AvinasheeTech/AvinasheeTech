@@ -14,16 +14,11 @@
 
 <br>
 
-```text
-Power-On Reset...
-Initializing system clock......... ✔
-Configuring GPIO.................. ✔
-Mounting filesystem............... ✔
-Starting services.................  ✔
-System Ready.
+<div align="center">
 
-Welcome to AVINASHEE TECH
-```
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=1200&pause=2&color=00FF00&background=00000000&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=220&lines=Power-On+Reset...;Initializing+system+clock.........+%E2%9C%94;Configuring+GPIO..................+%E2%9C%94;Mounting+filesystem...............+%E2%9C%94;Starting+services..................+%E2%9C%94;System+Ready.;;Welcome+to+AVINASHEE+TECH)
+
+</div>
 
 ## $ terminal
 
@@ -56,10 +51,28 @@ Learning never stops.
 
 ## 🎥 Latest Videos
 
-<!-- START_YOUTUBE_SECTION -->
-<!-- END_YOUTUBE_SECTION -->
-
-*(auto-updated daily via GitHub Actions — see workflow)*
+<table>
+<tr>
+<td align="center" width="250">
+<a href="https://www.youtube.com/watch?v=duCM7Z3kty0"><img src="https://img.youtube.com/vi/duCM7Z3kty0/hqdefault.jpg" width="250"><br><b>ESP32 BLE App</b></a>
+</td>
+<td align="center" width="250">
+<a href="https://www.youtube.com/watch?v=U30k4miiP9c"><img src="https://img.youtube.com/vi/U30k4miiP9c/hqdefault.jpg" width="250"><br><b>AI Voice Assistant</b></a>
+</td>
+<td align="center" width="250">
+<a href="https://www.youtube.com/watch?v=BN-J8Ks-_c4"><img src="https://img.youtube.com/vi/BN-J8Ks-_c4/hqdefault.jpg" width="250"><br><b>OLED Datasheet</b></a>
+</td>
+<td align="center" width="250">
+<a href="https://www.youtube.com/watch?v=6WZoTBr1xU4"><img src="https://img.youtube.com/vi/6WZoTBr1xU4/hqdefault.jpg" width="250"><br><b>TinyML Speech</b></a>
+</td>
+<td align="center" width="250">
+<a href="https://www.youtube.com/watch?v=0vzwbgLEY-s"><img src="https://img.youtube.com/vi/0vzwbgLEY-s/hqdefault.jpg" width="250"><br><b>BLE Keyboard</b></a>
+</td>
+<td align="center" width="250">
+<a href="https://www.youtube.com/watch?v=ZihDFVToX1Y"><img src="https://img.youtube.com/vi/ZihDFVToX1Y/hqdefault.jpg" width="250"><br><b>Core vs IT</b></a>
+</td>
+</tr>
+</table>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnGAbDT2-M_of7o2Wc3Ur5g)
 
